@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Post Title 1", 
+        "date": "12/15/1969", 
+        "summary": "Short description here",
+        "content": "Post text here"
+    },
+    {   
+        "title": "Post Title 2", 
+        "date": "12/15/1969", 
+        "summary": "Short description here",
+        "content": "Post text here"
+    }
+
+]
